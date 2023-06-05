@@ -1,0 +1,6 @@
+.DS_Store
+.vscode/
+# py
+__pycache__/
+# db
+*.db
